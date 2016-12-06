@@ -22,9 +22,9 @@ Our vision is for everyone to laugh, regardless of their language. From building
 The Pirates logotype is custom-designed to embody many of the aspirational qualities of the brand. Highly efficient, the letterforms are based on traditional typefaces and subtly contrasted stroke weight. The "of Tokyo Bay" banner invokes the flags Pirates proudly flew.  If you need logo assets, click here.
 
 #COLORS
-#F09A22
-#F0C514
-#8D52A1
-#794191
-#343433
-#FFFFFF
+F09A22
+F0C514
+8D52A1
+794191
+343433
+FFFFFF
