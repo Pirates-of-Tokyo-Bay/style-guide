@@ -28,3 +28,5 @@ The Pirates logotype is custom-designed to embody many of the aspirational quali
 - 794191
 - 343433
 - FFFFFF
+
+For more details please visit: http://piratesoftokyobay.com/styleguide
