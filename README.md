@@ -19,7 +19,7 @@ Pirates' colors are inspired by the festive parties of Mardi Gras, with shades o
 Our vision is for everyone to laugh, regardless of their language. From building our brand to expanding our business offerings, this style guide allows for us to create with the same simplicity. We hope that it serves you well, too.
 
 #LOGO USAGE
-The Pirates logotype is custom-designed to embody many of the aspirational qualities of the brand. Highly efficient, the letterforms are based on traditional typefaces and subtly contrasted stroke weight. The "of Tokyo Bay" banner invokes the flags Pirates proudly flew.  If you need logo assets, click here.
+The Pirates logotype is custom-designed to embody many of the aspirational qualities of the brand. Highly efficient, the letterforms are based on traditional typefaces and subtly contrasted stroke weight. The "of Tokyo Bay" banner invokes the flags Pirates proudly flew.  If you need logo assets, visit: https://drive.google.com/drive/folders/0B-9s6txnzeMAalhfdDJoRU9kSGs.
 
 #COLORS
 - F09A22
