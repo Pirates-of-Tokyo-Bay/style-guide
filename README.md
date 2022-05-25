@@ -3,9 +3,9 @@ Since our founding in 2010, the comedy scene in Tokyo (and across Asia) has matu
 
 To carry us into the future, we’ve created a style guide. This guide will help us grow consistently and quickly without needing oversight for every pixel and will also help us focus more on shows and business training rather than bits and pieces like buttons and list items. It outlines:
 
-- Logo, color & asset usage
-- Voice, tone & style
-- Show components & layout
+- Logo, color and asset usage
+- Voice, tone and style
+- Show components and layout
 
 It’s also a living reference tool for show producers, performers, developers, designers, marketers, and others, including our partners and media who want to write about our brand or use our assets.
  
@@ -22,11 +22,11 @@ Our vision is for everyone to laugh, regardless of their language. From building
 The Pirates logotype is custom-designed to embody many of the aspirational qualities of the brand. Highly efficient, the letterforms are based on traditional typefaces and subtly contrasted stroke weight. The "of Tokyo Bay" banner invokes the flags Pirates proudly flew.  If you need logo assets, visit: https://drive.google.com/drive/folders/0B-9s6txnzeMAalhfdDJoRU9kSGs.
 
 #COLORS
-- F09A22
-- F0C514
-- 8D52A1
-- 794191
-- 343433
-- FFFFFF
+- #F09A22
+- #F0C514
+- #8D52A1
+- #794191
+- #343433
+- #FFFFFF
 
 For more details please visit: http://piratesoftokyobay.com/styleguide
