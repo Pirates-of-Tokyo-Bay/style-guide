@@ -3,9 +3,9 @@ Since our founding in 2010, the comedy scene in Tokyo (and across Asia) has matu
 
 To carry us into the future, we’ve created a style guide. This guide will help us grow consistently and quickly without needing oversight for every pixel and will also help us focus more on shows and business training rather than bits and pieces like buttons and list items. It outlines:
 
-- Logo, color and asset usage
-- Voice, tone and style
-- Show components and layout
+- Logo, color & asset usage
+- Voice, tone & style
+- Show components & layout
 
 It’s also a living reference tool for show producers, performers, developers, designers, marketers, and others, including our partners and media who want to write about our brand or use our assets.
  
